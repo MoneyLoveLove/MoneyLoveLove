@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning **spring boot**
 
-- 💡 I'm interested in all things data:<br/> 
-     Big Data, Cloud, Machine Learning and Data Science
+- 💡 I'm interested in all things web:<br/> 
+     java, spring-boot, react etc..  
 
 - 📫 How to reach me **moneylove99@naver.com**
 
