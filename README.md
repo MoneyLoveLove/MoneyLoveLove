@@ -31,5 +31,5 @@
 </p>
 <br/>
 
-<p><img align="left" width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=moneylovelove&show_icons=true&locale=en&layout=compact" alt="moneylovelove" /></p>
+<p><img align="left" width=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=moneylovelove&show_icons=true&locale=en&layout=compact" alt="moneylovelove" /></p>
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moneylovelove" alt="moneylovelove" /></a> </p>
